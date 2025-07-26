@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+numpy<2.0
+pandas
+PyMuPDF
+pytesseract
+Pillow
+opencv-python-headless
+sentence-transformers==2.2.2
+torch==2.1.0
+huggingface_hub<=0.14.1
+nltk
